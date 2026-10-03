@@ -2,4 +2,3 @@
 .idea/
 mlflow.db
 mlflow_artifacts/
-plots/
